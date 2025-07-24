@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AuritroDeyKirty07
-- 👀 I’m interested in "Java", "C++", "Python" and "DSA" oriented learning
-- 🌱 I’m currently learning "C" programming language
-- 📫 How to reach me: SIMPLE-> Mail me at: deykirtyauritro@gmail.com
+- 👀 I’m interested in "Web Development", "Java", "C++", "Python", "SQL" and "DSA" oriented learning
+- 🌱 I’m currently learning MERN Stack
+- 📫 How to reach me: SIMPLE-> Mail me at: deykirtyauritro@gmail.com OR connect with me at: www.linkedin.com/in/auritro-dey-kirty
 - 😄 Pronouns: He/Him
 
 <!---
