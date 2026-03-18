@@ -12,8 +12,8 @@ Interactive battle simulator using API data and game logic.
 🌦 Weather Dashboard  
 Real-time weather UI powered by Fetch API.
 
-🧩 Mini JS Games  
-Rock Paper Scissors + Digital Clock + Calculator + Bucket List Project.
+🧩 Mini JS Projects  
+Rock Paper Scissors + Digital Clock
 
 ---
 
