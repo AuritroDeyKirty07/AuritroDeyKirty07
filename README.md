@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- TYPING ANIMATION — go to https://readme-typing-svg.demolab.com to customize -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Auritro+%F0%9F%91%8B;Aspiring+Full-Stack+Developer;React+%7C+Node.js+%7C+Firebase;Building+things+that+actually+work.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Auritro;Aspiring+Full-Stack+Developer;React+%7C+Node.js+%7C+Firebase;Building+things+that+actually+work.)](https://git.io/typing-svg)
 
 <!-- PROFILE VIEWS COUNTER -->
 ![Profile Views](https://komarev.com/ghpvc/?username=AuritroDeyKirty07&color=58A6FF&style=flat-square&label=Profile+Views)
@@ -12,15 +12,14 @@
 
 ## About me
 
-I'm a frontend developer actively pushing into full-stack territory. I build interactive, functional web apps — not just pretty UIs. Currently working on **CodeForge**, a competitive programming platform with real auth, real data, and real product thinking behind it.
+I'm a frontend developer actively pushing into full-stack territory. I build interactive, functional web apps, not just pretty UIs. Currently working on **CodeForge**, a competitive programming platform with real auth, real data, and real product thinking behind it.
 
 I care about writing clean code, understanding *why* things work, and shipping things that don't break.
 
-- 🔭 Currently building: **CodeForge** — a full-stack competitive coding platform
-- 🌱 Learning: Node.js, Express, REST API design, Firebase/Firestore
-- 👀 Open to: **Frontend or Full-Stack Internship opportunities**
-- 📍 Based in India
-- 💬 Ask me about: React, JavaScript, UI architecture, game-logic in the browser
+-  Currently building: **CodeForge** - a full-stack competitive coding platform
+-  Learning: Node.js, Express, REST API design, Firebase/Firestore
+-  Open to: **Frontend or Full-Stack Internship opportunities**
+-  Ask me about: React, JavaScript, UI architecture, game-logic in the browser, Databases
 
 ---
 
@@ -54,19 +53,19 @@ I care about writing clean code, understanding *why* things work, and shipping t
 
 ## Featured Projects
 
-### 🏆 CodeForge — Full-Stack Competitive Programming Platform
+### 🏆 CodeForge : A Full-Stack Competitive Programming Platform
 
 > React · Vite · Node.js · Express · Firestore · JWT Auth · Recharts
 
-A platform built to simulate real competitive coding workflows. Not a tutorial project — this has actual auth, real-time analytics, a battle arena, and a leaderboard system.
+A platform built to simulate real competitive coding workflows. It has actual auth, real-time analytics, a battle arena, a leaderboard system and much more!
 
 **What's inside:**
-- 🔐 JWT authentication system
-- 📊 Analytics dashboard with data visualization (Recharts)
-- ⚔️ Battle Arena mode with game logic
-- 🏅 Dynamic leaderboard with performance tracking
-- 🔥 Coding streaks & personal progress tracking
-- 📱 Fully responsive UI
+-  JWT authentication system
+-  Analytics dashboard with data visualization (Recharts)
+-  Battle Arena mode with game logic
+-  Dynamic leaderboard with performance tracking
+-  Coding streaks & personal progress tracking
+-  Fully responsive UI
 
 [![View Repo](https://img.shields.io/badge/View_Repo-CodeForge-58A6FF?style=flat-square&logo=github)](https://github.com/AuritroDeyKirty07/CodeForge)
 
@@ -76,10 +75,10 @@ A platform built to simulate real competitive coding workflows. Not a tutorial p
 
 | Project | What it does | Tech | Link |
 |---|---|---|---|
-| 🎮 Pokémon KO Battle | Battle simulator with live Pokémon API data and full game logic | JS, PokéAPI | [Repo](https://github.com/AuritroDeyKirty07/pokemon-ko-battle) |
-| 🌦 Weather Dashboard | Real-time weather UI with location search | JS, Fetch API | [Repo](https://github.com/AuritroDeyKirty07/weather-dashboard) |
-| 🧩 Mini JS Games | Rock Paper Scissors, Digital Clock, Calculator, Bucket List | Vanilla JS | [Repo](https://github.com/AuritroDeyKirty07/mini-js-games) |
-| 🌐 Portfolio | Personal portfolio site | HTML, CSS, JS | [Live](https://auritrodeykirty07.github.io/Portfolio/) |
+|  Pokémon KO Battle | Battle simulator with live Pokémon API data and full game logic | JS, PokéAPI | [Repo](https://github.com/AuritroDeyKirty07/pokemon-ko-battle) |
+|  Weather Dashboard | Real-time weather UI with location search | JS, Fetch API | [Repo](https://github.com/AuritroDeyKirty07/weather-dashboard) |
+|  Mini JS Games | Rock Paper Scissors, Digital Clock, Calculator, Bucket List | Vanilla JS | [Repo](https://github.com/AuritroDeyKirty07/mini-js-games) |
+|  Portfolio | Personal portfolio site | HTML, CSS, JS | [Live](https://auritrodeykirty07.github.io/Portfolio/) |
 
 ---
 
@@ -148,5 +147,5 @@ https://github.com/AuritroDeyKirty07
 ---
 
 <div align="center">
-  <sub>Open to frontend & full-stack internship opportunities · India · Available for remote</sub>
+  <sub>Open to frontend & full-stack internship opportunities · India · Available for on-site, remote and hybrid</sub>
 </div>
