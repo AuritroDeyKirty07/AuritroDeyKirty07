@@ -128,7 +128,7 @@ A platform built to simulate real competitive coding workflows. Not a tutorial p
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AuritroDeyKirty07/AuritroDeyKirty07/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+<img src="https://raw.githubusercontent.com/AuritroDeyKirty07/AuritroDeyKirty07/output/github-snake-dark.svg" alt="contribution snake" />
 
 </div>
 
