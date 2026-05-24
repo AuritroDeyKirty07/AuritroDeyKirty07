@@ -93,7 +93,7 @@ A platform built to simulate real competitive coding workflows. Not a tutorial p
 
 <div align="center">
 
-![Auritro's GitHub Stats](https://github-readme-stats2-blue.vercel.app/api?username=AuritroDeyKirty07&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![Auritro's GitHub stats](https://github-stats-alpha.vercel.app/api?username=AuritroDeyKirty07&cc=000&tc=58A6FF&ic=fff&bc=000)](https://github.com/AuritroDeyKirty07)
 
 ![Top Languages](https://github-readme-stats2-blue.vercel.app/api/top-langs/?username=AuritroDeyKirty07&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
 
