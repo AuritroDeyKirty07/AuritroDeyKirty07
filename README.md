@@ -1,151 +1,427 @@
 <div align="center">
 
-<!-- TYPING ANIMATION — go to https://readme-typing-svg.demolab.com to customize -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Auritro;Aspiring+Full-Stack+Developer;React+%7C+Node.js+%7C+Firebase;Building+things+that+actually+work.)](https://git.io/typing-svg)
+# Hi, I'm Auritro Dey Kirty
 
-<!-- PROFILE VIEWS COUNTER -->
-![Profile Views](https://komarev.com/ghpvc/?username=AuritroDeyKirty07&color=58A6FF&style=flat-square&label=Profile+Views)
+### Full-Stack Developer • Competitive Programmer • Aspiring Software Engineer
 
-</div>
+<p>
+Building scalable web applications, solving algorithmic problems, and turning ideas into real-world products.
+</p>
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Express;Firebase+%7C+MongoDB;Building+Projects+That+Matter;Always+Learning+Something+New.)](https://git.io/typing-svg)
 
-## About me
+![](https://komarev.com/ghpvc/?username=AuritroDeyKirty07&style=for-the-badge&color=58A6FF)
 
-I'm a frontend developer actively pushing into full-stack territory. I build interactive, functional web apps, not just pretty UIs. Currently working on **CodeForge**, a competitive programming platform with real auth, real data, and real product thinking behind it.
-
-I care about writing clean code, understanding *why* things work, and shipping things that don't break.
-
--  Currently building: **CodeForge** - a full-stack competitive coding platform
--  Learning: Node.js, Express, REST API design, Firebase/Firestore
--  Open to: **Frontend or Full-Stack Internship opportunities**
--  Ask me about: React, JavaScript, UI architecture, game-logic in the browser, Databases
-
----
-
-## Tech Stack
-
-<!-- BADGES — these auto-render on GitHub. No install needed. -->
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logo=react&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-## Featured Projects
-
-### 🏆 CodeForge : A Full-Stack Competitive Programming Platform
-
-> React · Vite · Node.js · Express · Firestore · JWT Auth · Recharts
-
-A platform built to simulate real competitive coding workflows. It has actual auth, real-time analytics, a battle arena, a leaderboard system and much more!
-
-**What's inside:**
--  JWT authentication system
--  Analytics dashboard with data visualization (Recharts)
--  Battle Arena mode with game logic
--  Dynamic leaderboard with performance tracking
--  Coding streaks & personal progress tracking
--  Fully responsive UI
-
-[![View Repo](https://img.shields.io/badge/View_Repo-CodeForge-58A6FF?style=flat-square&logo=github)](https://github.com/AuritroDeyKirty07/CodeForge)
-
----
-
-### ⚡ Other Projects
-
-| Project | What it does | Tech | Link |
-|---|---|---|---|
-|  Pokémon KO Battle | Battle simulator with live Pokémon API data and full game logic | JS, PokéAPI | [Repo](https://github.com/AuritroDeyKirty07/pokemon-ko-battle) |
-|  Weather Dashboard | Real-time weather UI with location search | JS, Fetch API | [Repo](https://github.com/AuritroDeyKirty07/weather-dashboard) |
-|  Mini JS Games | Rock Paper Scissors, Digital Clock, Calculator, Bucket List | Vanilla JS | [Repo](https://github.com/AuritroDeyKirty07/mini-js-games) |
-|  Portfolio | Personal portfolio site | HTML, CSS, JS | [Live](https://auritrodeykirty07.github.io/Portfolio/) |
-
----
-
-## GitHub Stats
-
-<!--
-  INSTRUCTIONS: These widgets work automatically with your username.
-  Just paste this section into your README as-is.
-  Stats update live — no setup needed.
--->
-
-<div align="center">
-
-![Auritro's GitHub stats](https://github-stats-alpha.vercel.app/api?username=AuritroDeyKirty07&cc=000&tc=58A6FF&ic=fff&bc=000)
-</div>
-<div align="center">
-  
-https://github.com/AuritroDeyKirty07
-</div>
-
----
-
-## GitHub Streak
-
-<!--
-  INSTRUCTIONS: Paste as-is. Updates automatically.
--->
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AuritroDeyKirty07&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<a href="https://auritrodeykirty07.github.io/Portfolio/">Portfolio</a> •
+<a href="https://www.linkedin.com/in/auritro-dey-kirty">LinkedIn</a> •
+<a href="https://www.github.com/AuritroDeyKirty07">GitHub</a> •
+<a href="https://www.leetcode.com/u/AuritroDeyKirty">LinkedIn</a>
 
 </div>
 
 ---
 
-## Contribution Graph
+# About Me
 
-<!--
-  INSTRUCTIONS: Paste as-is. This renders an animated contribution snake.
-  ONE-TIME SETUP REQUIRED — takes 5 minutes:
-  1. Go to your GitHub repo: AuritroDeyKirty07/AuritroDeyKirty07
-  2. Click Actions tab → New workflow → set up a workflow yourself
-  3. Paste the workflow from: https://github.com/Platane/snk#readme
-  4. Run it once manually. After that it auto-updates daily.
--->
+I'm a **Computer Science undergraduate** and **Full-Stack Developer** passionate about building software that solves real-world problems.
+
+I enjoy taking ideas from concept to deployment, whether it's a real-time location sharing platform, interactive web applications, or developer tools. My focus is on writing clean, scalable code while continuously improving my understanding of backend systems, software architecture, and problem solving.
+
+Alongside development, I actively practice **Data Structures & Algorithms**, participate in coding contests, and build projects that challenge me to learn something new.
+
+### Current Focus
+
+- Building modern Full-Stack Web Applications
+- Learning Backend Architecture, Docker & System Design
+- Solved **183+ LeetCode Problems**
+- Looking for **Frontend / Full-Stack Internship Opportunities**
+
+---
+
+# Tech Stack
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AuritroDeyKirty07/AuritroDeyKirty07/output/github-snake-dark.svg" alt="contribution snake" />
+### Languages
+
+[![Skills](https://skillicons.dev/icons?i=cpp,java,js,html,css)](https://skillicons.dev)
+
+### Frontend
+
+[![Skills](https://skillicons.dev/icons?i=react,vite,tailwind)](https://skillicons.dev)
+
+### Backend & Database
+
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb)](https://skillicons.dev)
+
+### Tools
+
+[![Skills](https://skillicons.dev/icons?i=git,github,docker,vscode)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## Connect with me
+# Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">Live Web Tracker</h3>
+
+<p align="center">
+
+<a href="https://github.com/AuritroDeyKirty07/live-web-tracker-app">
+
+<img src="./assets/live-web-tracker-ss.png" width="100%" alt="Live Web Tracker"/>
+
+</a>
+
+</p>
+
+<p align="center">
+
+<b>JavaScript • Firebase • Leaflet • Geolocation API</b>
+
+</p>
+
+<p>
+
+Real-time location sharing platform featuring Google Authentication, private rooms, interactive maps, and live synchronization between connected users.
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/AuritroDeyKirty07/live-web-tracker-app">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">Pokémon Stat Analyser</h3>
+
+<p align="center">
+
+<a href="https://github.com/AuritroDeyKirty07/Pokemon-Stat-Analyser">
+
+<img src="./assets/pokemon-stat-analyser-ss.png" width="100%" alt="Pokemon Stat Analyser"/>
+
+</a>
+
+</p>
+
+<p align="center">
+
+<b>Javascript • PokéAPI • Gemini API</b>
+
+</p>
+
+<p>
+
+Analyze and compare Pokémon statistics with responsive UI, and dynamic data fetched directly from the PokéAPI and Gemini API.
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/AuritroDeyKirty07/Pokemon-Stat-Analyser">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">Porsche Website</h3>
+
+<p align="center">
+
+<a href="https://github.com/AuritroDeyKirty07/porsche-website-frontend">
+
+<img src="./porsche-ss1" alt="Porsche Website-1"/>
+
+<img src="./porsche-ss2" alt="Porsche Website-2"/>
+
+</a>
+
+</p>
+
+<p align="center">
+
+<b>HTML • CSS • Javascript • Responsive • Modern UI</b>
+
+</p>
+
+<p>
+
+A premium Porsche-inspired landing page built with modern frontend practices, responsive layouts, smooth animations, and elegant design.
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/AuritroDeyKirty07/porsche-website-frontend">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">Crav Burger</h3>
+
+<p align="center">
+
+<a href="https://github.com/AuritroDeyKirty07/crav-burger-frontend">
+
+<img src="./assets/crav-burger-ss1.png" width="100%" alt="Crav Burger-1"/>
+
+<img src="./assets/crav-burger-ss2.png" width="100%" alt="Crav Burger-2"/>
+
+</a>
+
+</p>
+
+<p align="center">
+
+<b>HTML • CSS • Javascript • Responsive • UI Design</b>
+
+</p>
+
+<p>
+
+Modern restaurant landing page showcasing responsive layouts, reusable components, and clean frontend architecture.
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/AuritroDeyKirty07/crav-burger-frontend">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# Currently Building
+
+## CodeForge
+
+> **A Full-Stack Competitive Programming Platform**
+
+CodeForge is my flagship project focused on recreating a modern competitive programming ecosystem with authentication, coding battles, analytics, leaderboards, progress tracking, and a scalable backend.
+
+### Planned Features
+
+- JWT Authentication
+- Coding Battle Arena
+- Analytics Dashboard
+- Dynamic Leaderboards
+- Daily Coding Streaks
+- User Performance Tracking
+- Problem Management
+- Modern Responsive UI
+
+> **Status:** Private while the backend architecture is being redesigned and prepared for production deployment.
+
+*Coming back stronger soon*
+
+---
+
+# Competitive Programming
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-auritro.github.io-black?style=flat-square&logo=firefox&logoColor=white)](https://auritrodeykirty07.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Auritro_Dey_Kirty-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/auritro-dey-kirty)
-[![GitHub](https://img.shields.io/badge/GitHub-AuritroDeyKirty07-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AuritroDeyKirty07)
+<table>
+
+<tr>
+
+<td align="center" width="33%">
+
+### LeetCode
+
+**183+ Problems Solved**
+
+**Contest Rating:** **1446**
+
+Daily DSA Practice
+
+</td>
+
+<td align="center" width="33%">
+
+### 🏅 HackerRank
+
+SQL (Intermediate)
+
+Problem Solving
+
+Database Concepts
+
+</td>
+
+<td align="center" width="33%">
+
+### Currently Learning
+
+Backend Development
+
+System Design
+
+Docker
+
+Operating Systems
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
 ---
 
+
+# GitHub Analytics
+
 <div align="center">
-  <sub>Open to frontend & full-stack internship opportunities · India · Available for on-site, remote and hybrid</sub>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AuritroDeyKirty07&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuritroDeyKirty07&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AuritroDeyKirty07&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AuritroDeyKirty07&theme=github-compact&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AuritroDeyKirty07/AuritroDeyKirty07/output/github-snake-dark.svg" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+
+# Let's Connect
+
+<div align="center">
+
+<a href="https://auritrodeykirty07.github.io/Portfolio/" target="_blank">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-0A0A0A?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/auritro-dey-kirty" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Auritro%20Dey%20Kirty-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:deykirtyauritro@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AuritroDeyKirty07">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+# Fun Facts
+
+```cpp
+while(alive)
+{
+    Learn();
+    Build();
+    Debug();
+    Repeat();
+}
+```
+
+- Building products that solve real problems.
+- Enjoy Full-Stack Development & Competitive Programming.
+- Learning something new every single day.
+- Can spend hours debugging... only to discover a missing semicolon.
+
+---
+
+# Current Goals (2026)
+
+- 250+ LeetCode Problems
+- 1600+ LeetCode Rating
+- Deploy CodeForge publicly
+- Build production-ready MERN projects
+- Secure a Software Development Internship
+- Learn System Design & DevOps fundamentals
+
+---
+
+# Highlighted Repositories
+
+| Repository | Description |
+|------------|-------------|
+| Live Web Tracker | Real-time location sharing platform with Google Authentication & Leaflet |
+| CodeForge *(Private)* | Full-Stack Competitive Programming Platform |
+| Pokémon Stat Analyser | Interactive Pokémon analytics dashboard |
+| Porsche Website | Premium React landing page |
+| Crav Burger | Modern responsive restaurant website |
+| Pokémon Battle Simulator | Battle simulator using PokéAPI |
+
+---
+
+<div align="center">
+
+## Thanks for visiting!
+
+If you enjoy my work, consider ⭐ starring a repository.
+
+I'm always excited to learn, collaborate, and build impactful software.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer"/>
+
 </div>
