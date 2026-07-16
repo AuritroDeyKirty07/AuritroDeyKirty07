@@ -418,7 +418,7 @@ while(alive)
 
 ## Thanks for visiting!
 
-If you enjoy my work, consider ⭐ starring a repository.
+If you enjoy my work, consider ⭐ a repository.
 
 I'm always excited to learn, collaborate, and build impactful software.
 
