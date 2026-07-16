@@ -76,7 +76,7 @@ Alongside development, I actively practice **Data Structures & Algorithms**, par
 
 <a href="https://github.com/AuritroDeyKirty07/live-web-tracker-app">
 
-<img src="./assets/live-web-tracker-ss.png" width="100%" alt="Live Web Tracker"/>
+<img src="./assets/live-web-tracker-ss.PNG" width="100%" alt="Live Web Tracker"/>
 
 </a>
 
@@ -112,7 +112,7 @@ Real-time location sharing platform featuring Google Authentication, private roo
 
 <a href="https://github.com/AuritroDeyKirty07/Pokemon-Stat-Analyser">
 
-<img src="./assets/pokemon-stat-analyser-ss.png" width="100%" alt="Pokemon Stat Analyser"/>
+<img src="./assets/pokemon-stat-analyser-ss.PNG" width="100%" alt="Pokemon Stat Analyser"/>
 
 </a>
 
@@ -152,9 +152,9 @@ Analyze and compare Pokémon statistics with responsive UI, and dynamic data fet
 
 <a href="https://github.com/AuritroDeyKirty07/porsche-website-frontend">
 
-<img src="./porsche-ss1" alt="Porsche Website-1"/>
+<img src="./porsche-ss1.PNG" alt="Porsche Website-1"/>
 
-<img src="./porsche-ss2" alt="Porsche Website-2"/>
+<img src="./porsche-ss2.PNG" alt="Porsche Website-2"/>
 
 </a>
 
@@ -190,9 +190,9 @@ A premium Porsche-inspired landing page built with modern frontend practices, re
 
 <a href="https://github.com/AuritroDeyKirty07/crav-burger-frontend">
 
-<img src="./assets/crav-burger-ss1.png" width="100%" alt="Crav Burger-1"/>
+<img src="./assets/crav-burger-ss1.PNG" width="100%" alt="Crav Burger-1"/>
 
-<img src="./assets/crav-burger-ss2.png" width="100%" alt="Crav Burger-2"/>
+<img src="./assets/crav-burger-ss2.PNG" width="100%" alt="Crav Burger-2"/>
 
 </a>
 
@@ -273,7 +273,7 @@ Daily DSA Practice
 
 <td align="center" width="33%">
 
-### 🏅 HackerRank
+### HackerRank
 
 SQL (Intermediate)
 
