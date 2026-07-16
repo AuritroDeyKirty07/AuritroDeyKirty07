@@ -15,7 +15,7 @@ Building scalable web applications, solving algorithmic problems, and turning id
 <a href="https://auritrodeykirty07.github.io/Portfolio/">Portfolio</a> •
 <a href="https://www.linkedin.com/in/auritro-dey-kirty">LinkedIn</a> •
 <a href="https://www.github.com/AuritroDeyKirty07">GitHub</a> •
-<a href="https://www.leetcode.com/u/AuritroDeyKirty">LinkedIn</a>
+<a href="https://www.leetcode.com/u/AuritroDeyKirty">LeetCode</a>
 
 </div>
 
