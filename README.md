@@ -152,9 +152,9 @@ Analyze and compare Pokémon statistics with responsive UI, and dynamic data fet
 
 <a href="https://github.com/AuritroDeyKirty07/porsche-website-frontend">
 
-<img src="./porsche-ss1.PNG" alt="Porsche Website-1"/>
+<img src="./assets/porsche-ss1.PNG" alt="Porsche Website-1"/>
 
-<img src="./porsche-ss2.PNG" alt="Porsche Website-2"/>
+<img src="./assets/porsche-ss2.PNG" alt="Porsche Website-2"/>
 
 </a>
 
