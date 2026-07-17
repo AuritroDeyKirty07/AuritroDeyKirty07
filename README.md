@@ -10,6 +10,8 @@ Building scalable web applications, solving algorithmic problems, and turning id
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Express;Firebase+%7C+MongoDB;Building+Projects+That+Matter;Always+Learning+Something+New.)](https://git.io/typing-svg)
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AuritroDeyKirty07&theme=github_dark"/>
+
 ![](https://komarev.com/ghpvc/?username=AuritroDeyKirty07&style=for-the-badge&color=58A6FF)
 
 <a href="https://auritrodeykirty07.github.io/Portfolio/">Portfolio</a> •
