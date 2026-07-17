@@ -35,7 +35,7 @@ Alongside development, I actively practice **Data Structures & Algorithms**, par
 
 - Building modern Full-Stack Web Applications
 - Learning Backend Architecture, Docker & System Design
-- Solved **183+ LeetCode Problems**
+- Solved **185+ LeetCode Problems**
 - Looking for **Frontend / Full-Stack Internship Opportunities**
 
 ---
@@ -265,7 +265,7 @@ CodeForge is my flagship project focused on recreating a modern competitive prog
 
 ### LeetCode
 
-**183+ Problems Solved**
+**185+ Problems Solved**
 
 **Contest Rating:** **1446**
 
@@ -420,7 +420,7 @@ while(alive)
 
 ## Thanks for visiting!
 
-If you enjoy my work, consider ⭐ a repository.
+If you enjoy my work, consider starring ⭐ a repository.
 
 I'm always excited to learn, collaborate, and build impactful software.
 
