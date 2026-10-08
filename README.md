@@ -35,7 +35,7 @@ Alongside development, I actively practice **Data Structures & Algorithms**, par
 
 - Building modern Full-Stack Web Applications
 - Learning Backend Architecture, Docker & System Design
-- Solved **185+ LeetCode Problems**
+- Solved **300+ LeetCode Problems** and **450+ problems** on mulitiple platforms
 - Looking for **Frontend / Full-Stack Internship Opportunities**
 
 ---
